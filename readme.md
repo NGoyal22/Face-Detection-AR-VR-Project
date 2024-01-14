@@ -40,4 +40,4 @@ Gaming: Integrate facial detection into games, allowing characters to react to t
 
 Facial Detection with Graphics and Animation opens up a realm of possibilities for interactive and visually stunning applications. Whether used for entertainment, art, or gaming, this project aims to push the boundaries of what's possible by merging advanced facial detection with captivating graphics and animations.
 
-![Smart Surveillance System](./images/FD1.jpeg)
+![Smart Surveillance System](./images/FD.jpeg)
